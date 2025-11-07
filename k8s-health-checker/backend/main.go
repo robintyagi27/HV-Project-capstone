@@ -9,7 +9,7 @@ import (
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/tools/clientcmd"
 
-	"github.com/robintyagi27/k8s-health-checker/backend/health"
+	"github.com/robintyagi27/HV-Project-capstone/k8s-health-checker/backend/health"
 )
 
 func main() {
